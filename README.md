@@ -1,6 +1,6 @@
 # graphql-java-tools-schema-parser-bug
 
-Minimal example project illustrating the issue.
+Minimal example project illustrating [Issue #168](https://github.com/graphql-java/graphql-java-tools/issues/168).
 
 ### How to run
 1. Move into the `/sb-graphql` folder.
